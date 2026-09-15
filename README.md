@@ -30,7 +30,7 @@
 <h3 align="left">Security Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/RustScan-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rustscan"/>
-  <img src="https://img.shields.io/badge/Feroxbuster-4B0082?style=for-the-badge&logo=linux&logoColor=white" alt="feroxbuster"/>
+  <img src="https://img.shields.io/badge/Feroxbuster-4B0082?style=for-the-badge&logo=rust&logoColor=white" alt="feroxbuster"/>
   <img src="https://img.shields.io/badge/Nuclei-00A98F?style=for-the-badge&logo=go&logoColor=white" alt="nuclei"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
 </p>
